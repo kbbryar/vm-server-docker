@@ -1,0 +1,6 @@
+./sstate-cache
+./tmp
+./download
+cache/
+*log
+*dat
