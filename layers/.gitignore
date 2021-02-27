@@ -1,3 +1,4 @@
 meta-openembedded
 meta-virtualization
 meta-virtualmachine
+meta-vm-linux-kernel
